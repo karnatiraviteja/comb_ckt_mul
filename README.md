@@ -1,2 +1,2 @@
-# vlsi_fe
-VLSI Front-end
+# comb_ckt_mul
+Combinational Circuit -  4 bit multiplier
